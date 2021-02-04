@@ -1,5 +1,6 @@
 <br><br>
-![深度学习](https://gitee.com/zgf1366/pic_store/raw/master/img/20210130212239.jpg)
+<!-- ![深度学习](https://gitee.com/zgf1366/pic_store/raw/master/img/20210130212239.jpg) -->
+<img src="https://gitee.com/zgf1366/pic_store/raw/master/img/20210130212239.jpg" width = "300" alt="Salute_Deep_Learning" align=center />
 
 ## 一份学习深度学习从入门到跑路的记录 | 🚴‍♂️ 
 <iframe src="https://ghbtns.com/github-btn.html?user=Nicolas-gaofeng&repo=Salute_Deep_Learning&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
